@@ -5,6 +5,6 @@
 - 📫 How to reach me at kelvinhomeboy01@gmail.com
 
 <!---
-kelvinhomeboy/kelvinhomeboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+homeboy/homeboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
